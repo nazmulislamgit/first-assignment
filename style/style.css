@@ -214,3 +214,67 @@ height: 240px;
     font-weight: 600;
     text-align: center;
     }
+/* My inspiration */
+.my-inspiration-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 154px;
+}
+.my-inspiration-con h3{
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+}
+.my-inspiration-con p{
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 5px;
+}
+/* Youtube Video */
+.youtube-video iframe{
+    align-items: center;
+    margin-left: 250px;
+    border-radius: 16px;
+    margin-top: 80px;
+}
+.skills-contan{
+    display: flex;
+    /* gap: 5px; */
+}
+.skill{
+    padding: 90px ;
+    margin: 0 auto;
+    /* margin-left: 30px; */
+    /* margin-right: 50px; */
+}
+.skill h4{
+    font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+}
+.skill p{
+    font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+.skill img{
+    width: 39.68px;
+height: 45px;
+}
+.skill a{
+    font-family: Azeret Mono;
+    list-style: none;
+    color: black;
+    font-size: 16px;
+font-weight: 700;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+/* margin-right: 250px; */
+}
