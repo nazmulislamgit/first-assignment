@@ -487,6 +487,6 @@ font-weight: 600;
     display: flex;
 flex-direction: row;
 /* justify-content: flex-end; */
-margin-left: 520px;
-gap: 20px;
+margin-left: 540px;
+gap: 10px;
 }
